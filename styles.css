@@ -1,0 +1,31 @@
+﻿.volume-slider {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80px;
+    z-index: 9999;
+  }
+  
+  /* body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h3 {
+    margin-bottom: 20px;
+    color: #405DE6; 
+  }
+  
+  p {
+    margin-bottom: 20px;
+    color: #6E7191; 
+  }
+  
+  .slider-label {
+    font-size: 14px;
+    margin-top: 10px;
+    color: #6E7191; 
+  }
+   */
